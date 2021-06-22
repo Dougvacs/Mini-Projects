@@ -1,2 +1,2 @@
 # Mini Projects
- Small programming projects
+Sometimes I get an idea to try something, and these projects are the result.
